@@ -1,4 +1,4 @@
-Getting_Cleaning_Data
+run_analysis.R
 =====================
 
 Repository for the course "Getting and Cleaning Data" - a part of Data Science Specialization certification offered by John Hopkins University.
